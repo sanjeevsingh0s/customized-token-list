@@ -265,9 +265,9 @@
   },
   {
     "address": "0x7ff7fa94b8b66ef313f7970d4eebd2cb3103a2c0",
-    "chainId": 56,
+    "chainId": 137,
     "symbol": "VANA",
-    "decimals": 137,
+    "decimals": 18,
     "name": "VANA",
     "logoURI": "https://assets.coingecko.com/coins/images/51404/small/logo.png?1731086679"
   },
@@ -286,5 +286,13 @@
     "chainId": 137,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/parallel-protocol/parallel-brand-kit/main/Tokens/PRL/PRL.svg"
+  },
+  {
+    "name": "IDRX",
+    "address": "0x649a2da7b28e0d54c13d5eff95d3a660652742cc",
+    "symbol": "IDRX",
+    "chainId": 137,
+    "decimals": 0,
+    "logoURI": "https://i.postimg.cc/63K0k1P8/IDRX-MAIN-COIN-LOGO.png"
   }
 ]
